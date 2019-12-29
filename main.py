@@ -21,8 +21,6 @@ def main():
         sourcer.generate_client_info_df(companies.split(','), roles.split(','), num_contacts)
         sourcer.write_client_info_csv(write_path)
         
-
-
     return 0
 
 if __name__ == "__main__":
