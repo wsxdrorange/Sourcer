@@ -22,6 +22,4 @@ Because Sourcer uses Hunter.io's API, individual users are required to create an
 
 `pip install -r requirements.txt`
 
-`pip3 install -r requirements.txt`
-
 Necessary packages: requests
