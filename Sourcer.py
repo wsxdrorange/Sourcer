@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import requests
-from linkedin_v2 import linkedin
 
 #Sourcer Class to handle all sourcing functionality
 class Sourcer:
